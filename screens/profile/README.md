@@ -20,3 +20,5 @@
 * сообщение
 * событие
 * профиль (тыкнуть на написавшего отзыв)
+
+![screen view](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/profile/profile_screen.jpg)
