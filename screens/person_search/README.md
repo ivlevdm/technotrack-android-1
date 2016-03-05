@@ -7,3 +7,5 @@
 
 при нажатии на пользователя происходит переход на его профиль
 * в самом верху - строка поиска, фильты под строкой
+
+![screen view](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/person_search/search_screen.jpg)
