@@ -7,3 +7,5 @@
 * профиль
 * назад
 * событие (из флудильни)
+
+![screen view](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/chat/chat_screen.jpg)
