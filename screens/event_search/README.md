@@ -11,3 +11,5 @@
 Фильтры будут находится после строки поиска.
 
 Соответственно при нажатии на событие происходит переход на экран-событие.
+
+![screen view](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/event_search/search_screen.jpg)
