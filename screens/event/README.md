@@ -46,3 +46,6 @@
 * список заявок, в каждой заявке
 * кнопка отменить
   - переход на страницу участника
+
+![google example](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/event/event.jpg)
+![google example](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/event/event2.jpg)
