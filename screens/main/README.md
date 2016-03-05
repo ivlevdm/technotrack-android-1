@@ -9,3 +9,5 @@
 
 *Лента нового пользователя*
 * лента событий рядом (сортировка по дате и геолокации, наиболее ближайшие соотвественно находятся в начале списка-ленты)
+
+![screen view](https://github.com/ivlevdm/technotrack-android-1/blob/master/screens/main/main_screen.jpg)
